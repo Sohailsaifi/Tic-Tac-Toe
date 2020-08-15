@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac Toe Android Application
+An android Tic Tac Toe game made using Java.
